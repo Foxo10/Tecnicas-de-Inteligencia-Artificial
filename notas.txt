@@ -1,0 +1,49 @@
+1. Introducción a la Inteligencia Artificial
+    1.1. Conceptos básicos, definiciones
+    1.2. Visión histórica de la Inteligencia Artificial (IA)
+    1.3. Métodos de Inteligencia Artificial
+
+2. Agentes inteligentes
+
+3. Espacio de estados y búsqueda
+    3.1 Problemas y espacios de estados
+
+    3.2 Algoritmos de búsqueda no informados
+
+    3.3 Algoritmos de búsqueda informados
+
+    3.4 Búsqueda y juegos. Búsqueda adversarial
+
+   
+4. Aprendizaje Supervisado
+http://lsi.bp.ehu.es/asignaturas/TIA/
+
+5. Aprendizaje por refuerzo (Reinforcement Learning)
+
+-------------------------------------------------------------
+-Introducción a Python
+	Lab0 Python tutorial
+	plantilla.zip 
+	Jupyter collab notebook: Python basics
+	Lab1_OOPython
+	proyecto0_OO
+
+-Práctica 1
+	Práctica 1. Fase1 Fitxategia
+	Ejemplo de Informe: https://www.overleaf.com/read/bxfmbrpvmkjf
+	Código práctica 1
+	Práctica 1. Fase 2
+-Práctica 2
+	Enunciado práctica 2
+	Código
+	versionPython3
+	Los métodos y sus parámetros Fitxategia
+-Práctica 3
+	Enunciado práctica 3
+	Codigo-Python3
+	samples.py
+	Enunciado Práctica 3B
+	Código
+-Práctica 4
+	Enunciado Práctica 4
+	Código 
