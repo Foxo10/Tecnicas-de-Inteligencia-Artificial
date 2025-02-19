@@ -1,1 +1,2 @@
-# T-cnicas-de-Inteligencia-Artificial
+# TIA
+Técnicas de Inteligencia Artificial
